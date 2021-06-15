@@ -28,8 +28,11 @@ The heat-map showed the correlation of each variable with another. The darker co
 
 ## Summary
 <img src="https://i.imgur.com/Qgb9ukj.png" alt="drawing" width="400"/>
+
 <img src="https://i.imgur.com/vYFtgXK.png" alt="drawing" width="400"/>
 After the result comparison, I still need to put more effort to improve the model. The result reflects that some of the valuable data might not yet to be discovered from the dataset. Probably need to review all the missing data, outliers, also, spend more time on data analysis and multicollinearity issue.
+
+<center><img src="https://i.imgur.com/Rdih3eG.png" alt="drawing" width=300/></center>
 
 ## Contributing
 1. Fork it!
